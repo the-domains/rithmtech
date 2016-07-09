@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Rithm.Tech]]></title>
+        <description><![CDATA[Rithm.Tech]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 14:26:25 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sorting Algorithm Animations]]></title>
+            <description><![CDATA[<article><h1>Sorting Algorithm Animations</h1><p>Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fc16b2286ebf5781de1dc6066e0e5c5/noop.jpg?input=http%3A%2F%2Fassets.toptal.io%2Fassets%2Ffront%2Fstatic%2Fpublic%2Fblocks%2Fsorting_algorithms%2Fog_image_76642a.jpg"></article>]]></description>
+            <link>https://www.toptal.com/developers/sorting-algorithms</link>
+            <guid isPermaLink="false">30b8bab5-8125-42ff-bab3-291d8d72cea9</guid>
+            <pubDate>Sat, 09 Jul 2016 14:26:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
