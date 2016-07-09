@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Rithm.Tech]]></title>
         <description><![CDATA[Rithm.Tech]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/rithmtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 14:26:25 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 09 Jul 2016 14:33:41 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/rithmtech/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[balanesipf (Rithm)]]></title>
+            <description><![CDATA[<article><h1>balanesipf (Rithm)</h1><p>balanesipf has 11 repositories written in JavaScript, Ruby, and Java. Follow their code on GitHub.</p><img src="https://avatars0.githubusercontent.com/u/4006553?v=3&s=400"></article>]]></description>
+            <link>https://github.com/balanesipf</link>
+            <guid isPermaLink="false">af2208bb-bd9c-48de-8af1-91083f23a6b2</guid>
+            <pubDate>Sat, 09 Jul 2016 14:33:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sorting Algorithm Animations]]></title>
             <description><![CDATA[<article><h1>Sorting Algorithm Animations</h1><p>Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fc16b2286ebf5781de1dc6066e0e5c5/noop.jpg?input=http%3A%2F%2Fassets.toptal.io%2Fassets%2Ffront%2Fstatic%2Fpublic%2Fblocks%2Fsorting_algorithms%2Fog_image_76642a.jpg"></article>]]></description>
