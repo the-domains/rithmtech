@@ -4,18 +4,25 @@
         <description><![CDATA[Rithm.Tech]]></description>
         <link>https://thegrid.ai/rithmtech/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 14:33:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 14:49:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rithmtech/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[CodeEval - Coding Challenges for the World's Best Developers]]></title>
+            <description><![CDATA[<article><h1>CodeEval - Coding Challenges for the World's Best Developers</h1><p>CodeEval is a community of the world's top developers to practice and compete on code challenges. Build our your developer profile and see where you rank</p><img src="https://codeeval-media.s3.amazonaws.com/avatars/86656_social.jpg"></article>]]></description>
+            <link>https://www.codeeval.com/profile/Rithm/</link>
+            <guid isPermaLink="false">57c4a0fe-0c76-493b-80e6-cd58eb75b22e</guid>
+            <pubDate>Sat, 09 Jul 2016 14:49:12 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[balanesipf (Rithm)]]></title>
-            <description><![CDATA[<article><h1>balanesipf (Rithm)</h1><p>balanesipf has 11 repositories written in JavaScript, Ruby, and Java. Follow their code on GitHub.</p><img src="https://avatars0.githubusercontent.com/u/4006553?v=3&s=400"></article>]]></description>
+            <description><![CDATA[<article><h1>balanesipf (Rithm)</h1><p>balanesipf has 11 repositories written in JavaScript, Ruby, and Java. Follow their code on GitHub.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a66fd6dda1baaeed99064568939ba6e3/noop?input=https%3A%2F%2Favatars0.githubusercontent.com%2Fu%2F4006553%3Fv%3D3%26s%3D400"></article>]]></description>
             <link>https://github.com/balanesipf</link>
             <guid isPermaLink="false">af2208bb-bd9c-48de-8af1-91083f23a6b2</guid>
             <pubDate>Sat, 09 Jul 2016 14:33:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sorting Algorithm Animations]]></title>
-            <description><![CDATA[<article><h1>Sorting Algorithm Animations</h1><p>Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/9fc16b2286ebf5781de1dc6066e0e5c5/noop.jpg?input=http%3A%2F%2Fassets.toptal.io%2Fassets%2Ffront%2Fstatic%2Fpublic%2Fblocks%2Fsorting_algorithms%2Fog_image_76642a.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Sorting Algorithm Animations</h1><p>Animation, code, analysis, and discussion of 8 sorting algorithms on 4 initial conditions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e49fc1e7c8290a61817b35434c039c63de93ade8.jpg"></article>]]></description>
             <link>https://www.toptal.com/developers/sorting-algorithms</link>
             <guid isPermaLink="false">30b8bab5-8125-42ff-bab3-291d8d72cea9</guid>
             <pubDate>Sat, 09 Jul 2016 14:26:24 GMT</pubDate>
